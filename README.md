@@ -1,2 +1,2 @@
-# Commonwealth-Bank-Data-Science-Virtual-Internship
+# Commonwealth Bank Data Science Virtual Internship
  
