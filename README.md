@@ -25,3 +25,4 @@ Explore data insights derived from social media and collaborate with Commonwealt
    > Design the structure of information in a database
 
 ## References
+[An In-Depth Guide to Data Masking](https://www.testim.io/blog/data-masking/)
