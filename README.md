@@ -25,5 +25,6 @@ Explore data insights derived from social media and collaborate with Commonwealt
    > Design the structure of information in a database
 
 ## References
-[An In-Depth Guide to Data Masking](https://www.testim.io/blog/data-masking/)
-[Twitter Sentiment Analysis](https://blog.gramener.com/twitter-sentiment-analysis/)
+
+1. [An In-Depth Guide to Data Masking](https://www.testim.io/blog/data-masking/)
+2. [Twitter Sentiment Analysis](https://blog.gramener.com/twitter-sentiment-analysis/)
