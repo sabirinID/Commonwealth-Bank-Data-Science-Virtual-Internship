@@ -56,4 +56,25 @@ Once you’ve completed your anonymisation, submit your CSV file below.
 	Top Ten Ways to Clean Your Data in Excel
 	https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19
 
-# 
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+	Example Answer - CSV
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1683210175643/model_answer_csv.csv
+
+# Example answer explanation
+The example answer is one way to approach this problem and not the only solution. To create the model answer, we built the following steps into a data privacy pipeline:
+
+Remove the customer_id and current_location column. Removal of data (redaction) that does not have much informational value is a valid data privacy technique.
+Mask the username column to hide the real username.
+Replace the original name column with a fake name. Replacing real values for fake values is a valid data privacy technique.
+Mask the email column to hide the real email address.
+Add noise to the date_registered and birthdate columns to hide the real value. Adding noise protects the real value by adding random noise to the actual value.
+Categorise the salary and age columns into bins. This categorisation hides the original values and preserves the distribution.
+The credit_card_provider and credit_card_expire have been tokenised. This step converts the categorical value of the columns into a different random value while preserving the distribution.
+The credit_card_number and credit_card_security_code have been masked.
+The employer and job columns have also been tokenised to preserve the original distribution.
+The residence and address have been replaced with fake values.
+
+# Nice work!
+You just completed Task 2 of the Introduction to Data Science Job Simulation

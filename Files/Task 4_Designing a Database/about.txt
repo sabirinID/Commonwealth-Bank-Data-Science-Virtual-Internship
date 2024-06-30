@@ -49,4 +49,15 @@ Once you’re happy with your database structure, complete the text submission bel
 	Introduction to Database Design
 	https://www.datanamic.com/support/lt-dez005-introduction-db-modeling.html
 
-# 
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+Tweet data can unlock plenty of valuable information for businesses like CommBank. Here are a few ideas:
+
+Examine CommBank’s most popular tweets. Which tweets get the most engagement? Are there identifiable trends in when these tweets are posted? Are there any similar qualities about the text of the tweets themselves? This information can provide valuable marketing insight.
+Evaluate sentiment in CommBank’s Twitter replies and quote retweets. Are people generally reacting positively or negatively to various tweets? What can we learn about their reaction?
+Examine user tweets that directly mention CommBank. Is there positive or negative feedback that we can address? Can we summarise user opinion?
+Look at the relationships between views, likes, and reblogs for CommBank tweets. If there are tweets that get high views but low likes and reblogs, can we identify factors that make users more likely to interact?
+Explore the user profiles of accounts that interact with CommBank’s Twitter. Can we extract any marketing insight from this audience?
+
+# Final Task Complete!

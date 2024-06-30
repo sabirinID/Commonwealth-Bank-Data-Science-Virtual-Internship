@@ -48,4 +48,28 @@ You should conduct your analysis in Excel or a spreadsheet program of your choic
 	Filtering Data in Excel
 	https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e
 
-# 
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+	Example Answer - Spreadsheet
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1675681340590/Task%201%20-%20Example%20Answer%20-%20Spreadsheet.ods
+
+# Example Answer Explanation
+The example answer is just one way to approach this problem, not the only solution. For this question, first, we opened the CSV file `supermarket_transactions.csv` in Excel. Then we aggregated and analysed the data using filters and formulas to answer the following questions:
+
+Question 1: Across locations, how many apples were purchased in cash?
+
+To answer this question, we filtered the data sheet to include only rows where the
+`product_name` is “apple” and where the `payment_method` is “cash.” Then, we summed the
+`quantity` column to get an answer of 117 apples.
+
+Question 2: How much total cash was spent on these apples?
+
+Here, we left the data sheet filtered to include only rows where the `product_name` is “apple” and where the `payment_method` is “cash.” Then, we summed the `total_amount` column to get an answer of $537.03.
+
+Question 3: Across all payment methods, how much money was spent at the Bakershire store location by non-member customers?
+
+For this question, we cleared all the previous filter criteria. Then, we filtered the data sheet to include only rows where the `customer_type` was non-member, and the `store` was Bakershire. Then, we summed the `total_amount` column to get an answer of $2,857.51.
+
+# Nice work!
+You just completed Task 1 of the Introduction to Data Science Job Simulation
